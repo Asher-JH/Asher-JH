@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fmeme-pikachu-pokemon-shocked-gif-16985133&psig=AOvVaw39vvq9sswUShi6fruepWO3&ust=1651743702260000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMD6gvjGxfcCFQAAAAAdAAAAABAJ" width="100"/>
+  <img src="https://tenor.com/view/meme-pikachu-pokemon-shocked-gif-16985133" width="100"/>
 </div>
 
 <!--
