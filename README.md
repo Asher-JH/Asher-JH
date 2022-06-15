@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://tenor.com/view/surprised-pikachu-pokemon-shock-surprised-pikachu-gif-15357817.gif" width="100"/>
+  <img src="https://tenor.com/view/surprised-pikachu-pokemon-shock-surprised-pikachu-gif-15357817.gif" width="300"/>
 </div>
 
 <!--
