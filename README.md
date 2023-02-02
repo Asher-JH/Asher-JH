@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <!-- <img src="https://tenor.com/view/surprised-pikachu-pokemon-shock-surprised-pikachu-gif-15357817.gif" width="300"/> -->
-  [![@asher's Holopin board](https://holopin.io/api/user/board?user=asher)](https://holopin.io/@asher)
+  <img src="https://tenor.com/view/surprised-pikachu-pokemon-shock-surprised-pikachu-gif-15357817.gif" width="300"/>
+<!--   [![@asher's Holopin board](https://holopin.io/api/user/board?user=asher)](https://holopin.io/@asher) -->
 </div>
 
 <!--
